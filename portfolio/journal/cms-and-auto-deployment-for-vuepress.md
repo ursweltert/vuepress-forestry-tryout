@@ -1,7 +1,8 @@
 ---
 title: Content management and auto deployment for VuePress
-date: 2018-08-09 17:49:28 +0000
-excerpt: This works like expected, this text is only visible on the front page where all the journal posts are listed
+date: 2018-08-09T17:49:28.000+00:00
+excerpt: This works like expected, this text is only visible on the front page where
+  all the journal posts are listed
 
 ---
 # Content management and auto deployment for VuePress
@@ -12,7 +13,7 @@ Let's check out how we can manage the content from within Forestry and automatic
 
 This theme is pre-configured and works out of the box with Forestry. Create an account at [Forestry](https://forestry.io "Forestry") and import your repository. You can now edit, manage and preview your content.
 
-That's it, that's all. Enjoy your new site!
+That's it, that's all. Enjoy your new site!![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
 
 ## Deployment
 
